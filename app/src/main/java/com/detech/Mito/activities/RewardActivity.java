@@ -36,6 +36,7 @@ public class RewardActivity extends AppCompatActivity {
     String currentUid;
     int coins = 0;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
