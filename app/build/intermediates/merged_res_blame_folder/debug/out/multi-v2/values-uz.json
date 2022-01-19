@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/shahbazyounas/project/strangers/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
+            "outputFile": "/home/shahbazyounas/Home/Mito/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "/home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/026226cfc9128dd3616826818c91b9f3/material-1.4.0/res/values-uz/values-uz.xml",

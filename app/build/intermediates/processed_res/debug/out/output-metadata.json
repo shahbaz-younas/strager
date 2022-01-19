@@ -4,14 +4,14 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "com.appsians.strangers",
+  "applicationId": "com.detech.Mito",
   "variantName": "debug",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "versionCode": 1,
-      "versionName": "1.0",
+      "versionName": "2.0",
       "outputFile": "resources-debug.ap_"
     }
   ]

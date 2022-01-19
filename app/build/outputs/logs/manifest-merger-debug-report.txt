@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:2:1-40:12
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:2:1-40:12
 MERGED from [androidx.databinding:viewbinding:4.2.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/775eb733fdfb5c5fadcc4eb1bf3474e0/viewbinding-4.2.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.multidex:multidex:2.0.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/480913dfb7b73ce9375e43aa9e1a997f/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.4.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/026226cfc9128dd3616826818c91b9f3/material-1.4.0/AndroidManifest.xml:17:1-24:12
@@ -87,25 +87,25 @@ MERGED from [androidx.print:print:1.0.0] /home/shahbazyounas/.gradle/caches/tran
 MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/6ff1a6bc80e2085891242bd68bd699fe/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.sqlite:sqlite:2.0.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/74462d086c84559de37d87804f517a0d/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/5fa73615562d9d7e3f1e8b0405f83600/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:3:5-37
-		INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
-		INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:2:1-40:12
-		INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:2:1-40:12
-		INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:5:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/fba6a590e046ae3bb28498ec65ed943f/firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/fba6a590e046ae3bb28498ec65ed943f/firebase-auth-21.0.1/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-database:20.0.2] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/a636cd2ebae322b484e101f25a9ed29b/firebase-database-20.0.2/AndroidManifest.xml:26:5-67
@@ -123,21 +123,21 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.1] /home
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/b84d1e3bcea0d4d5f9dc27a6a63e5bff/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/b84d1e3bcea0d4d5f9dc27a6a63e5bff/play-services-measurement-sdk-api-19.0.1/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:6:5-71
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:6:5-71
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:6:22-68
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:6:22-68
 uses-permission#android.permission.CAMERA
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:7:5-65
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:7:5-65
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:7:22-62
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:7:22-62
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:8:5-80
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:8:22-77
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:8:22-77
 application
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:10:5-38:19
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:10:5-38:19
 MERGED from [com.google.android.material:material:1.4.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/026226cfc9128dd3616826818c91b9f3/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/026226cfc9128dd3616826818c91b9f3/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/8da8fd9fea083630897cc11143c9f76c/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
@@ -205,69 +205,69 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/shahb
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/e81257837f1767da48ac036f752f439b/core-1.5.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:14:9-62
 	android:icon
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:12:9-48
 	android:allowBackup
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:16:9-47
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:16:9-47
 	android:usesCleartextTraffic
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:17:9-44
-activity#com.appsians.strangers.activities.RewardActivity
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:18:9-72
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:17:9-44
+activity#com.detech.Mito.activities.RewardActivity
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:18:9-87
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:18:19-60
-activity#com.appsians.strangers.activities.CallActivity
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:19:9-61
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:18:19-75
+activity#com.detech.Mito.activities.CallActivity
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:19:9-76
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:19:19-58
-activity#com.appsians.strangers.activities.ConnectingActivity
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:20:9-76
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:19:19-73
+activity#com.detech.Mito.activities.ConnectingActivity
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:20:9-91
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:20:19-64
-activity#com.appsians.strangers.activities.LoginActivity
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:21:9-62
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:20:19-79
+activity#com.detech.Mito.activities.LoginActivity
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:21:9-77
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:21:19-59
-activity#com.appsians.strangers.activities.WelcomeActivity
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:22:9-28:20
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:21:19-74
+activity#com.detech.Mito.activities.WelcomeActivity
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:22:9-28:20
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:22:19-61
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:22:19-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:23:13-27:29
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:24:17-69
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:24:25-66
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:26:17-77
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:26:27-74
-activity#com.appsians.strangers.activities.MainActivity
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:29:9-61
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.detech.Mito.activities.MainActivity
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:29:9-76
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:29:19-58
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:29:19-73
 meta-data#preloaded_fonts
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:31:9-33:57
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:31:9-33:57
 	android:resource
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:33:13-54
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:33:13-54
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:32:13-43
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:32:13-43
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:35:9-37:69
+ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:35:9-37:69
 	android:value
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:37:13-67
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:37:13-67
 	android:name
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml:36:13-69
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml:36:13-69
 uses-sdk
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:4.2.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/775eb733fdfb5c5fadcc4eb1bf3474e0/viewbinding-4.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.databinding:viewbinding:4.2.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/775eb733fdfb5c5fadcc4eb1bf3474e0/viewbinding-4.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/480913dfb7b73ce9375e43aa9e1a997f/multidex-2.0.0/AndroidManifest.xml:20:5-43
@@ -434,18 +434,18 @@ MERGED from [androidx.sqlite:sqlite:2.0.1] /home/shahbazyounas/.gradle/caches/tr
 MERGED from [androidx.sqlite:sqlite:2.0.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/74462d086c84559de37d87804f517a0d/sqlite-2.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/5fa73615562d9d7e3f1e8b0405f83600/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/5fa73615562d9d7e3f1e8b0405f83600/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
-INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
+INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:20.4.0] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/8a83f72102f12c87bb7d77a227becad4/play-services-ads-20.4.0/AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
-		INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
-		INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
-		ADDED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
-		INJECTED from /home/shahbazyounas/project/strangers/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
+		ADDED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shahbazyounas/Home/Mito/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:21.0.1] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/fba6a590e046ae3bb28498ec65ed943f/firebase-auth-21.0.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-database:20.0.2] /home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/a636cd2ebae322b484e101f25a9ed29b/firebase-database-20.0.2/AndroidManifest.xml:25:5-79

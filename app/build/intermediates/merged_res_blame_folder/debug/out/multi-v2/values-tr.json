@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/shahbazyounas/project/strangers/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
+            "outputFile": "/home/shahbazyounas/Home/Mito/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
             "map": [
                 {
                     "source": "/home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/8a83f72102f12c87bb7d77a227becad4/play-services-ads-20.4.0/res/values-tr/values.xml",

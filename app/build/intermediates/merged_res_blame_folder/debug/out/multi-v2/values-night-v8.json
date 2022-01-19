@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/shahbazyounas/project/strangers/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/shahbazyounas/Home/Mito/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/026226cfc9128dd3616826818c91b9f3/material-1.4.0/res/values-night-v8/values-night-v8.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/shahbazyounas/project/strangers/app/src/main/res/values-night/themes.xml",
+                    "source": "/home/shahbazyounas/Home/Mito/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

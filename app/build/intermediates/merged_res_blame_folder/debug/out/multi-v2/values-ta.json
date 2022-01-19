@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/shahbazyounas/project/strangers/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "/home/shahbazyounas/Home/Mito/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "/home/shahbazyounas/.gradle/caches/transforms-2/files-2.1/e81257837f1767da48ac036f752f439b/core-1.5.0/res/values-ta/values-ta.xml",

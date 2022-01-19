@@ -143,6 +143,7 @@
             android:textSize="20sp" />
 
         <ImageView
+            android:id="@+id/video2Icon"
             android:layout_width="24dp"
             android:layout_height="24dp"
             app:srcCompat="@drawable/youtube" />
@@ -178,6 +179,7 @@
             android:textSize="20sp" />
 
         <ImageView
+            android:id="@+id/video3Icon"
             android:layout_width="24dp"
             android:layout_height="24dp"
             app:srcCompat="@drawable/youtube" />
@@ -213,6 +215,7 @@
             android:textSize="20sp" />
 
         <ImageView
+            android:id="@+id/video4Icon"
             android:layout_width="24dp"
             android:layout_height="24dp"
             app:srcCompat="@drawable/youtube" />
@@ -243,11 +246,12 @@
             android:layout_marginLeft="10dp"
             android:layout_weight="1"
             android:fontFamily="@font/roboto_bold"
-            android:text="1000 Coins"
+            android:text="3 Coins"
             android:textColor="@color/white"
             android:textSize="20sp" />
 
         <ImageView
+            android:id="@+id/video5Icon"
             android:layout_width="24dp"
             android:layout_height="24dp"
             app:srcCompat="@drawable/youtube" />

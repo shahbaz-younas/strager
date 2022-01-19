@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.appsians.strangers"
+    package="com.detech.Mito"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="2.0" >
 
     <uses-sdk
         android:minSdkVersion="19"
@@ -41,32 +41,31 @@
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/play_store_512"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/ic_launcher_adaptive_back"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.Strangers"
         android:usesCleartextTraffic="true" >
-        <activity android:name="com.appsians.strangers.activities.RewardActivity" />
-        <activity android:name="com.appsians.strangers.activities.CallActivity" />
-        <activity android:name="com.appsians.strangers.activities.ConnectingActivity" />
-        <activity android:name="com.appsians.strangers.activities.LoginActivity" />
-        <activity android:name="com.appsians.strangers.activities.WelcomeActivity" >
+        <activity android:name="com.detech.Mito.activities.RewardActivity" />
+        <activity android:name="com.detech.Mito.activities.CallActivity" />
+        <activity android:name="com.detech.Mito.activities.ConnectingActivity" />
+        <activity android:name="com.detech.Mito.activities.LoginActivity" />
+        <activity android:name="com.detech.Mito.activities.WelcomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.appsians.strangers.activities.MainActivity" />
+        <activity android:name="com.detech.Mito.activities.MainActivity" />
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713" />
+            android:value="ca-app-pub-1171612315548548~8972238396" />
 
         <activity
             android:name="com.google.firebase.auth.internal.GenericIdpActivity"
@@ -150,7 +149,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.appsians.strangers.firebaseinitprovider"
+            android:authorities="com.detech.Mito.firebaseinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
@@ -167,7 +166,7 @@
 
         <provider
             android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-            android:authorities="com.appsians.strangers.mobileadsinitprovider"
+            android:authorities="com.detech.Mito.mobileadsinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -198,7 +197,7 @@
 
         <provider
             android:name="androidx.work.impl.WorkManagerInitializer"
-            android:authorities="com.appsians.strangers.workmanager-init"
+            android:authorities="com.detech.Mito.workmanager-init"
             android:directBootAware="false"
             android:exported="false"
             android:multiprocess="true" />

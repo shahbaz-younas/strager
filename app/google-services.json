@@ -1,42 +1,41 @@
 {
   "project_info": {
-    "project_number": "837504031758",
-    "firebase_url": "https://videocall-9f6c6-default-rtdb.firebaseio.com",
-    "project_id": "videocall-9f6c6",
-    "storage_bucket": "videocall-9f6c6.appspot.com"
+    "project_number": "462258574686",
+    "project_id": "random-video-call-5d293",
+    "storage_bucket": "random-video-call-5d293.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:837504031758:android:f636d4703e4fd87d3d305f",
+        "mobilesdk_app_id": "1:462258574686:android:c1835a52b0b183db53ebcf",
         "android_client_info": {
-          "package_name": "com.appsians.strangers"
+          "package_name": "com.detech.Mito"
         }
       },
       "oauth_client": [
         {
-          "client_id": "837504031758-phtm99ugm3v8ro9f4vsu15lk23mlmfoo.apps.googleusercontent.com",
+          "client_id": "462258574686-ftt711hcr2avppqrf410uk9itqeqqmpl.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.appsians.strangers",
+            "package_name": "com.detech.Mito",
             "certificate_hash": "19e607259b621f1b6ca47c33fc548146f55c4646"
           }
         },
         {
-          "client_id": "837504031758-drajst01bic8ne868ubvd111i6u106vl.apps.googleusercontent.com",
+          "client_id": "462258574686-q5kt5n9mlu70vfud8as5csvqo2661af1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCk5sQ0d-dUosG3OIkgUj7PVKZn7yBetfI"
+          "current_key": "AIzaSyCuZLspfqQKjoEE13sJxo7Ti_oSQ0SYOkA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "837504031758-drajst01bic8ne868ubvd111i6u106vl.apps.googleusercontent.com",
+              "client_id": "462258574686-q5kt5n9mlu70vfud8as5csvqo2661af1.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
